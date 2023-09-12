@@ -1,0 +1,37 @@
+[
+	{
+		"name": "Belarus",
+		"leaderName": "Vaclau Lastouski",
+		"adjective": ["belarusian"],
+		"startBias": ["Hill"],
+		"preferredVictoryType": "Diplomatic",
+		
+		"startIntroPart1": "Welcome to Belarus, the People Republic!",
+		
+		"declaringWar": "We're tired of tensions, enough! Prepare for war!",
+		"attacked": "Are you gonna to grab our lands? Come on, get it!",
+		"defeated": "Our homeland will forever remain in hearts of our people.",
+		"introduction": "Hello there, my name is Vaclau Lastouski, I am presenting independent Belarus!",
+		
+		"neutralHello": "Witayu! How are you doing?",
+		"neutralLetsHearIt": ["Go on.","I am listening.","Continue please."],
+		"neutralNo": ["That's not acceptable.","No.","We refuse."],
+		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
+
+		"hateHello": "What do you want now?",
+		"hateLetsHearIt": ["Speak!","Let's hear you...","Make your offer!"],
+		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
+		"hateYes": ["That is fine.","That is good enough.","Very well..."],
+		
+		"afterPeace": "May be peace between our nations. Zhyve Belarus!",
+		"tradeRequest": "Would you be interested in this exchange?",
+
+		"outerColor": [204,0,0],
+		"innerColor": [255,255,255],
+		"uniqueName": "Potatoes Land",
+		"uniques": ["[+1 Food] from [Farm] tiles [in all cities]",
+		"[+20]% [Food] [in capital]"],
+		"cities": ["Minsk","Gomel","Mogilev","Vitebsk","Grodno","Brest","Bobruysk","Baranovichi","Borisov", "Pinsk",
+			"Orsha","Mozyr'","Soligorsk","Novopolotsk","Lida","Molodechno","Polotsk","Zhlobin","Svetlogorsk","Rechitsa"]
+	}
+]
