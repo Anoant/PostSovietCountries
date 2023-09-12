@@ -6,11 +6,13 @@
 		"replaces": "Great War Infantry",
 		"movement": 2,
 		"strength": 50,
-		"cost": 270,
+		"cost": 260,
 		"requiredTech": "Replaceable Parts",
 		"upgradesTo": "Infantry",
 		"obsoleteTech": "Plastics",
-		"uniques": ["Can move after attacking <when fighting in [Friendly Land] tiles>"],
+		"uniques":
+			["Can move after attacking <when fighting in [Friendly Land] tiles>",
+			"May withdraw before melee ([50]%)"],
 		"attackSound": "shot"
 	}
 ]
