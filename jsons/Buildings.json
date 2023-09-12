@@ -3,10 +3,10 @@
 		"name": "Hockey Stadium",
 		"replaces": "Stadium",
 		"uniqueTo": "Belarus",
-		"happiness": 3,
+		"happiness": 4,
 		"culture": 2,
-		"uniques": ["[+1 Culture] from [Snow] tiles [in this city]",
-		"[+1 Culture] from [Tundra] tiles [in this city]"],
+		"uniques": ["[+1 Happiness, +1 Culture] in cities on [Snow] tiles",
+		"[+1 Happiness, +1 Culture] in cities on [Tundra] tiles"],
 		"requiredBuilding": "Theatre",
 		"maintenance": 2,
 		"requiredTech": "Refrigeration"
