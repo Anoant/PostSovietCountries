@@ -29,8 +29,9 @@
 		"outerColor": [204,0,0],
 		"innerColor": [255,255,255],
 		"uniqueName": "Potatoes Land",
-		"uniques": ["[+1 Food] from [Farm] tiles [in all cities]",
-		"[+20]% [Food] [in capital]"],
+		"uniques":
+			["[+1 Food, +1 Production] from all [Food] buildings",
+			"[+25]% [Food] [in capital]"],
 		"cities": ["Minsk","Gomel","Mogilev","Vitebsk","Grodno","Brest","Bobruysk","Baranovichi","Borisov", "Pinsk",
 			"Orsha","Mozyr'","Soligorsk","Novopolotsk","Lida","Molodechno","Polotsk","Zhlobin","Svetlogorsk","Rechitsa"]
 	}
