@@ -1,0 +1,16 @@
+[
+	{
+		"name": "Partisans",
+		"unitType": "Gunpowder",
+		"uniqueTo": "Belarus",
+		"replaces": "Great War Infantry",
+		"movement": 2,
+		"strength": 50,
+		"cost": 270,
+		"requiredTech": "Replaceable Parts",
+		"upgradesTo": "Infantry",
+		"obsoleteTech": "Plastics",
+		"uniques": ["Can move after attacking <when fighting in [Friendly Land] tiles>"],
+		"attackSound": "shot"
+	}
+]
