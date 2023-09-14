@@ -27,8 +27,8 @@
 		"tradeRequest": "Would you be interested in this exchange?",
 
 		"outerColor": [255,255,255],
-		"innerColor": [255,255,255],
-		"uniqueName": "Potatoes Land",
+		"innerColor": [255,36,0],
+		"uniqueName": "Potatoes Fields",
 		"uniques":
 			["[+1 Food, +1 Production] from all [Food] buildings",
 			"[+25]% [Food] [in capital]"],
