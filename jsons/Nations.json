@@ -26,7 +26,7 @@
 		"afterPeace": "May be peace between our nations. Zhyve Belarus!",
 		"tradeRequest": "Would you be interested in this exchange?",
 
-		"outerColor": [204,0,0],
+		"outerColor": [255,255,255],
 		"innerColor": [255,255,255],
 		"uniqueName": "Potatoes Land",
 		"uniques":
