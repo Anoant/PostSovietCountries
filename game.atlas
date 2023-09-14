@@ -1,0 +1,27 @@
+
+game.png
+size: 1024, 512
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+BuildingIcons/Hockey Stadium
+  rotate: false
+  xy: 4, 140
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+NationIcons/Belarus
+  rotate: false
+  xy: 4, 4
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+UnitIcons/Partisans
+  rotate: false
+  xy: 268, 140
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
