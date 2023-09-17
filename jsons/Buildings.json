@@ -4,9 +4,9 @@
 		"replaces": "Stadium",
 		"uniqueTo": "Belarus",
 		"happiness": 4,
-		"culture": 2,
-		"uniques": ["[+1 Happiness, +1 Culture] in cities on [Snow] tiles",
-		"[+1 Happiness, +1 Culture] in cities on [Tundra] tiles"],
+		"culture": 3,
+		"uniques": ["[+2 Happiness, +1 Culture] in cities on [Snow] tiles",
+		"[+2 Happiness, +1 Culture] in cities on [Tundra] tiles"],
 		"requiredBuilding": "Theatre",
 		"maintenance": 2,
 		"requiredTech": "Refrigeration"
