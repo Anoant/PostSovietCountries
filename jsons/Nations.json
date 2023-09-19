@@ -37,8 +37,7 @@
 	},
 	{"name": "Georgia",
 		"leaderName": "Tamar",
-		"adjective": ["Georgian"],
-		"startBias": ,
+		"adjective": ["georgian"],
 		"preferredVictoryType": "Cultural",
 
 		"startIntroPart1": "Fierce Tamar, only a fool could misjudge Georgia's true measure. Hound your enemies with loyal clansmen who strike from the hills. Encourage your foes to dash their best against your cities' enduring walls.",
@@ -52,14 +51,14 @@
 		"neutralHello": "Greetings.",
 		"hateHello": "Oh, it's you...",
 
-		"tradeRequest": "People of Georgia offers this deal to you. Do you accept?",
+		"tradeRequest": "Our folks offers this deal to you. Do you accept?",
 
 		"outerColor": [255,255,255],
 		"innerColor": [255,140,0],
 		"favoredReligion": "Christianity",
 		"uniqueName": "Strength in Unity",
 		"uniques": ["[+25]% Golden Age length", "[+33]% [Culture] <during a Golden Age> [in all non-occupied cities]", "[+33]% [Faith] <during a Golden Age> [in all non-occupied cities]", "[+100]% Production when constructing [Walls] buildings [in all cities]"],
-		"cities": ["Tbilisi", "Kutaisi", "Batumi", "Sokhumi", "Zugdidi", "Rustavi", "Poti", "Gori", "Tskhinvali", "Samtredia",
+		"cities": ["Tbilisi", "Kutaisi", "Batumi", "Sukhumi", "Zugdidi", "Rustavi", "Poti", "Gori", "Tskhinvali", "Samtredia",
 		"Kaspi", "Akhalkalaki", "Mtskheta", "Telavi", "Borjomi", "Khashuri", "Zestafoni", "Nicopsia", "Urbnisi", "Geguti"]
 	}
 ]
