@@ -14,5 +14,20 @@
 			["Can move after attacking <when fighting in [Friendly Land] tiles>",
 			"May withdraw before melee ([50]%)"],
 		"attackSound": "shot"
+	},
+	{
+		"name": "Khevshur",
+		"unitType": "Sword",
+		"movement": 2,
+		"strength": 24,
+		"cost": 120,
+		"requiredTech": "Steel",
+		"upgradesTo": "Musketman",
+		"obsoleteTech": "Gunpowder",
+		"requiredResource": "Iron",
+		"uniques":
+			["Double movement in [Hills]",
+			"[+20]% Strength <when fighting in [Hills] tiles>"]
+		"attackSound": "metalhit"
 	}
 ]
