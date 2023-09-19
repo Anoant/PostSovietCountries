@@ -58,7 +58,8 @@
 		"innerColor": [255,140,0],
 		"favoredReligion": "Christianity",
 		"uniqueName": "Strength in Unity",
-		"uniques": [],
-		"cities": ["Tbilisi",],
-	},
+		"uniques": ["[+25]% Golden Age length", "[+33]% [Culture] <during a Golden Age> [in all non-occupied cities]", "[+33]% [Faith] <during a Golden Age> [in all non-occupied cities]", "[+100]% Production when constructing [Walls] buildings [in all cities]"],
+		"cities": ["Tbilisi", "Kutaisi", "Batumi", "Sokhumi", "Zugdidi", "Rustavi", "Poti", "Gori", "Tskhinvali", "Samtredia",
+		"Kaspi", "Akhalkalaki", "Mtskheta", "Telavi", "Borjomi", "Khashuri", "Zestafoni", "Nicopsia", "Urbnisi", "Geguti"]
+	}
 ]
