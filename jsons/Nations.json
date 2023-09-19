@@ -59,9 +59,10 @@
 		"uniqueName": "Strength in Unity",
 		"uniques":
 			["[+25]% Golden Age length",
-			"[+33]% [Culture] [in all non-occupied cities]",
+			"[+33]% [Culture] [in all non-occupied cities] <during a Golden Age>",
 			"[+33]% [Faith] [in all non-occupied cities] <during a Golden Age>",
-			"[+100]% Production when constructing [Walls] buildings [in all cities]"],
+			"[+100]% Production when constructing [Walls] buildings [in all cities]",
+			"[+100]% Production when constructing [Castle] buildings [in all cities]"],
 		"cities": ["Tbilisi", "Kutaisi", "Batumi", "Sukhumi", "Zugdidi", "Rustavi", "Poti", "Gori", "Tskhinvali", "Samtredia",
 		"Kaspi", "Akhalkalaki", "Mtskheta", "Telavi", "Borjomi", "Khashuri", "Zestafoni", "Nicopsia", "Urbnisi", "Geguti"]
 	}
