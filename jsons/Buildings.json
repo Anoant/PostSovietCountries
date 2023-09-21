@@ -5,10 +5,26 @@
 		"uniqueTo": "Belarus",
 		"happiness": 4,
 		"culture": 3,
-		"uniques": ["[+2 Happiness, +1 Culture] in cities on [Snow] tiles",
-		"[+2 Happiness, +1 Culture] in cities on [Tundra] tiles"],
+		"uniques":
+			["[+2 Happiness, +1 Culture] in cities on [Snow] tiles",
+			"[+2 Happiness, +1 Culture] in cities on [Tundra] tiles"],
 		"requiredBuilding": "Theatre",
 		"maintenance": 2,
 		"requiredTech": "Refrigeration"
-	}
+	},
+	{
+		"name": "Tsikhe",
+		"replaces": "Castle",
+		"uniqueTo": "Georgia",
+		"cost": 140,
+		"cityStrength": 7,
+		"cityHealth": 50,
+		"hurryCostModifier": 25,
+		"requiredBuilding": "Walls",
+		"requiredTech": "Chivalry",
+		"faith": 4,
+		"uniques":
+			["Destroyed when the city is captured",
+			"[+4 Faith] <during a Golden Age>"]
+	},
 ]
