@@ -18,6 +18,8 @@
 	{
 		"name": "Khevshur",
 		"unitType": "Sword",
+		"uniqueTo": "Georgia",
+		"replaces": "Longswordsman",
 		"movement": 2,
 		"strength": 24,
 		"cost": 120,
