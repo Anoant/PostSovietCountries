@@ -66,9 +66,10 @@
 		"Kaspi", "Akhalkalaki", "Mtskheta", "Telavi", "Borjomi", "Khashuri", "Zestafoni", "Nicopsia", "Urbnisi", "Geguti"]
 	},
 	{	"name": "Kazakhstan",
-		"leaderName": "",
+		"leaderName": "Ablaihan",
 		"adjective": ["kazakh"],
-		"preferredVictoryType": "",
+		"startBias": ["Plains"],
+		"preferredVictoryType": "Diplomatic",
 
 		"startIntroPart1":
 		"startIntroPart2":
@@ -85,9 +86,10 @@
 		"outerColor": [0,171,194],
 		"innerColor": [255,236,45],
 		"favoredReligion": "Islam",
-		"uniqueName": "",
+		"uniqueName": "Nomadic Pastoralists",
 		"uniques":
-			[],
-		"cities": []
+			["Provides [1] [Sheep] <upon founding a city>"],
+			["Double quantity of [Horse] produced"],
+		"cities": ["Almaty"]
 	}
 ]
