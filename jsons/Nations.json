@@ -35,7 +35,7 @@
 		"cities": ["Minsk","Gomel","Mogilev","Vitebsk","Grodno","Brest","Bobruysk","Baranovichi","Borisov", "Pinsk",
 			"Orsha","Mozyr'","Soligorsk","Novopolotsk","Lida","Molodechno","Polotsk","Zhlobin","Svetlogorsk","Rechitsa"]
 	},
-	{"name": "Georgia",
+	{	"name": "Georgia",
 		"leaderName": "Tamar",
 		"adjective": ["georgian"],
 		"preferredVictoryType": "Cultural",
@@ -64,5 +64,30 @@
 			"[+200]% Production when constructing [Walls] buildings [in all cities]"],
 		"cities": ["Tbilisi", "Kutaisi", "Batumi", "Sukhumi", "Zugdidi", "Rustavi", "Poti", "Gori", "Tskhinvali", "Samtredia",
 		"Kaspi", "Akhalkalaki", "Mtskheta", "Telavi", "Borjomi", "Khashuri", "Zestafoni", "Nicopsia", "Urbnisi", "Geguti"]
+	},
+	{	"name": "Kazakhstan",
+		"leaderName": "",
+		"adjective": ["kazakh"],
+		"preferredVictoryType": "",
+
+		"startIntroPart1":
+		"startIntroPart2":
+		"declaringWar":
+		"attacked": 
+		"defeated": 
+		"introduction":
+
+		"neutralHello": "Oh, hello.",
+		"hateHello": "What now?",
+
+		"tradeRequest": "Trade?",
+
+		"outerColor": [0,171,194],
+		"innerColor": [255,236,45],
+		"favoredReligion": "Islam",
+		"uniqueName": "",
+		"uniques":
+			[],
+		"cities": []
 	}
 ]
