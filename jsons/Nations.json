@@ -71,12 +71,12 @@
 		"startBias": ["Plains"],
 		"preferredVictoryType": "Diplomatic",
 
-		"startIntroPart1":
-		"startIntroPart2":
-		"declaringWar":
-		"attacked": 
-		"defeated": 
-		"introduction":
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+		"declaringWar": "",
+		"attacked": "",
+		"defeated": "",
+		"introduction": "",
 
 		"neutralHello": "Oh, hello.",
 		"hateHello": "What now?",
