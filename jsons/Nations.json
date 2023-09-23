@@ -88,8 +88,8 @@
 		"favoredReligion": "Islam",
 		"uniqueName": "Nomadic Pastoralists",
 		"uniques":
-			["Provides [1] [Sheep] <upon founding a city>"],
-			["Double quantity of [Horse] produced"],
+			["Provides [1] [Sheep] <upon founding a city>",
+			"Double quantity of [Horse] produced"],
 		"cities": ["Almaty"]
 	}
 ]
