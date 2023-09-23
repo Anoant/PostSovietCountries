@@ -88,8 +88,9 @@
 		"favoredReligion": "Islam",
 		"uniqueName": "Nomadic Pastoralists",
 		"uniques":
-			["Provides [1] [Sheep] <upon founding a city>",
-			"Double quantity of [Horse] produced"],
+			["Provides [1] [Cattle] [in all cities]",
+			"[-50]% Culture cost of natural border growth [in this city] <upon founding a city> <for [12] turns>",
+			"Double quantity of [Horses] produced"],
 		"cities": ["Almaty"]
 	}
 ]
