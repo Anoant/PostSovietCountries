@@ -90,7 +90,8 @@
 		"uniques":
 			["Gain a free [Pasture] [in all cities] <upon discovering [Horseback Riding]>",
 			"Gain [1] [Cattle] <upon founding a city>",
-			"Gain [1] [Horses] <upon founding a city>",
-		"cities": ["Almaty"]
+			"Gain [1] [Horses] <upon founding a city>"],
+		"cities": ["Turkistan", "Almaty", "Astana", "Sauran", "Sighnak", "Otrar", "Saraychik", "Shymkent", "Karaganda", "Taraz",
+		"Aktobe", "Pavlodar", "Oskemen", "Semey", "Oral", "Kostanai", "Petropavl", "Kyzylorda", "Temirtau", "Aktau"]
 	}
 ]
