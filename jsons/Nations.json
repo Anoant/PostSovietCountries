@@ -88,7 +88,7 @@
 		"favoredReligion": "Islam",
 		"uniqueName": "Nomadic Pastoralists",
 		"uniques":
-			["Gain a free [Pasture] [in all cities] <upon discovering [Horseback Riding]>",
+			["Gain a free [Stable] [in all cities] <upon discovering [Animal Husbandry]>",
 			"Gain [1] [Cattle] <upon founding a city>",
 			"Gain [1] [Horses] <upon founding a city>"],
 		"cities": ["Turkistan", "Almaty", "Astana", "Sauran", "Sighnak", "Otrar", "Saraychik", "Shymkent", "Karaganda", "Taraz",
