@@ -33,7 +33,7 @@
 			["[+1 Food, +1 Production] from all [Food] buildings",
 			"[+25]% [Food] [in capital]"],
 		"cities": ["Minsk","Gomel","Mogilev","Vitebsk","Grodno","Brest","Bobruysk","Baranovichi","Borisov", "Pinsk",
-			"Orsha","Mozyr'","Soligorsk","Novopolotsk","Lida","Molodechno","Polotsk","Zhlobin","Svetlogorsk","Rechitsa"]
+			"Orsha","Mozyr","Soligorsk","Novopolotsk","Lida","Molodechno","Polotsk","Zhlobin","Svetlogorsk","Rechitsa"]
 	},
 	{	"name": "Georgia",
 		"leaderName": "Tamar",
@@ -88,9 +88,10 @@
 		"favoredReligion": "Islam",
 		"uniqueName": "Nomadic Pastoralists",
 		"uniques":
-			["Gain a free [Stable] [in all cities] <upon discovering [Animal Husbandry]>",
-			"Gain [1] [Cattle] <upon founding a city>",
-			"Gain [1] [Horses] <upon founding a city>"],
+			["Gain a free [Stable] [in all cities] <after discovering [Animal Husbandry]>",
+			"[+2 Culture] from every [Pasture]",
+			"[+1] Movement <for [Civilian] units>",
+			"[+1] Sight <for [Civilian] units>"],
 		"cities": ["Turkistan", "Almaty", "Astana", "Sauran", "Sighnak", "Otrar", "Saraychik", "Shymkent", "Karaganda", "Taraz",
 		"Aktobe", "Pavlodar", "Oskemen", "Semey", "Oral", "Kostanai", "Petropavl", "Kyzylorda", "Temirtau", "Aktau"]
 	}
