@@ -44,8 +44,9 @@
 		"requiredResource": "Horses",
 		"upgradesTo": "Knight",
 		"obsoleteTech": "Chivalry",
-		"uniques": ["Can move after attacking","No defensive terrain bonus","[-33]% Strength <vs cities> <when attacking>" ],
-		"promotions":["[+10] HP when healing"],
+		"uniques":
+		["Can move after attacking","No defensive terrain bonus","[-33]% Strength <vs cities> <when attacking>",
+		"[+10] HP when healing"],
 		"hurryCostModifier": 20,
 		"attackSound": "horse"
 	}
