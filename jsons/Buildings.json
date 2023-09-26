@@ -22,9 +22,20 @@
 		"hurryCostModifier": 25,
 		"requiredBuilding": "Walls",
 		"requiredTech": "Chivalry",
-		"faith": 4,
+		"faith": 5,
 		"uniques":
 			["Destroyed when the city is captured",
-			"[+4 Faith] <during a Golden Age>"]
+			"[+5 Faith] <during a Golden Age>"]
+	},
+	{
+		"name": "Kiyiz Ui",
+		"replaces": "Circus",
+		"uniqueTo": "Kazakhstan",
+		"happiness": 2,
+		"hurryCostModifier": 25,
+		"requiredTech": "Trapping"
+		"uniques":
+			["New [Mounted] units start with [15] Experience [in this city]",
+			"All newly-trained [Mounted] units [in this city] receive the [Shock I] promotion]"
 	}
 ]

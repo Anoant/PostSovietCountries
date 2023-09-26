@@ -31,5 +31,22 @@
 			["Double movement in [Hill]",
 			"[+20]% Strength <when fighting in [Hill] tiles>"]
 		"attackSound": "metalhit"
+	},
+	{
+		"name": "Tolu-Batyr",
+		"unitType": "Mounted",
+		"uniqueTo": "Kazakhstan",
+		"replaces": "Horseman",
+		"movement": 4,
+		"strength": 15,
+		"cost": 75,
+		"requiredTech": "Horseback Riding",
+		"requiredResource": "Horses",
+		"upgradesTo": "Knight",
+		"obsoleteTech": "Chivalry",
+		"uniques": ["Can move after attacking","No defensive terrain bonus","[-33]% Strength <vs cities> <when attacking>" ],
+		"promotions":["[+10] HP when healing"],
+		"hurryCostModifier": 20,
+		"attackSound": "horse"
 	}
 ]

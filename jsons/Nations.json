@@ -88,8 +88,8 @@
 		"favoredReligion": "Islam",
 		"uniqueName": "Nomadic Pastoralists",
 		"uniques":
-			["Gain a free [Stable] [in all cities] <after discovering [Animal Husbandry]>",
-			"[+2 Culture] from every [Pasture]",
+		//	["Gain a free [Stable] [in all cities] <after discovering [Animal Husbandry]>",
+			["[+2 Culture] from every [Pasture]",
 			"[+1] Movement <for [Civilian] units>",
 			"[+1] Sight <for [Civilian] units>"],
 		"cities": ["Turkistan", "Almaty", "Astana", "Sauran", "Sighnak", "Otrar", "Saraychik", "Shymkent", "Karaganda", "Taraz",
