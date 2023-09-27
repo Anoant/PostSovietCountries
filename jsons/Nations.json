@@ -31,7 +31,7 @@
 		"uniqueName": "Potatoes Fields",
 		"uniques":
 			["[+1 Food, +1 Production] from all [Food] buildings",
-			"[+25]% [Food] [in capital]"],
+			"[+10]% [Food] [in all cities]"],
 		"cities": ["Minsk","Gomel","Mogilev","Vitebsk","Grodno","Brest","Bobruysk","Baranovichi","Borisov", "Pinsk",
 			"Orsha","Mozyr","Soligorsk","Novopolotsk","Lida","Molodechno","Polotsk","Zhlobin","Svetlogorsk","Rechitsa"]
 	},
