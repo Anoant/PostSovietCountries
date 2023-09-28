@@ -1,3 +1,6 @@
-# Belarus
-This is my first mod :)
-This mod brings Belarus to Unciv.
+# Post-Soviet
+This is my first mod :) Work in Progress.
+
+This mod adds some nations of post-soviet space. For now following are presented: Belarus, Georgia, Kazakhstan.
+
+Disclaimer: Uniques/buildings/units in the mod aren't representing (generally) present days.
