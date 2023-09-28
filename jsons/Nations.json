@@ -31,8 +31,68 @@
 		"uniqueName": "Potatoes Fields",
 		"uniques":
 			["[+1 Food, +1 Production] from all [Food] buildings",
-			"[+25]% [Food] [in capital]"],
+			"[+10]% [Food] [in all cities]"],
 		"cities": ["Minsk","Gomel","Mogilev","Vitebsk","Grodno","Brest","Bobruysk","Baranovichi","Borisov", "Pinsk",
-			"Orsha","Mozyr'","Soligorsk","Novopolotsk","Lida","Molodechno","Polotsk","Zhlobin","Svetlogorsk","Rechitsa"]
+			"Orsha","Mozyr","Soligorsk","Novopolotsk","Lida","Molodechno","Polotsk","Zhlobin","Svetlogorsk","Rechitsa"]
+	},
+	{	"name": "Georgia",
+		"leaderName": "Tamar",
+		"adjective": ["georgian"],
+		"preferredVictoryType": "Cultural",
+
+		"startIntroPart1": "Fierce Tamar, only a fool could misjudge Georgia's true measure. Hound your enemies with loyal clansmen who strike from the hills. Encourage your foes to dash their best against your cities' enduring walls.",
+		"startIntroPart2": "The armies of your protectorates will run them down as they flee. If you suffer no fools, great queen, Georgia will not suffer. ",
+
+		"declaringWar": "God fights with us. You stand alone.",
+		"attacked": "Georgian hearts will not tremble before your multitudes.",
+		"defeated": "Walls weren't enough to save Georgia from ruin. Neither was I.",
+		"introduction": "I am Tamar of Georgia. Say what you will and be on your way.",
+
+		"neutralHello": "Greetings.",
+		"hateHello": "Oh, it's you...",
+
+		"tradeRequest": "Our folks offers this deal to you. Do you accept?",
+
+		"outerColor": [255,255,255],
+		"innerColor": [255,140,0],
+		"favoredReligion": "Christianity",
+		"uniqueName": "Strength in Unity",
+		"uniques":
+			["[+25]% Golden Age length",
+			"[+33]% [Culture] [in all non-occupied cities] <during a Golden Age>",
+			"[+33]% [Faith] [in all non-occupied cities] <during a Golden Age>",
+			"[+200]% Production when constructing [Walls] buildings [in all cities]"],
+		"cities": ["Tbilisi", "Kutaisi", "Batumi", "Sukhumi", "Zugdidi", "Rustavi", "Poti", "Gori", "Tskhinvali", "Samtredia",
+		"Kaspi", "Akhalkalaki", "Mtskheta", "Telavi", "Borjomi", "Khashuri", "Zestafoni", "Nicopsia", "Urbnisi", "Geguti"]
+	},
+	{	"name": "Kazakhstan",
+		"leaderName": "Ablai Khan",
+		"adjective": ["kazakh"],
+		"startBias": ["Plains"],
+		"preferredVictoryType": "Diplomatic",
+
+		"startIntroPart1": "Ablai Khan, you are a true leader! You have fought against Kazakh enemies for decades and proved to be an excellent commander and strategist. Your military prowess earned you the title of 'Batyr'! Most supreme Khan, your ancestor includes the mighty founder of the Kazakh Khanate, Janybek Khan. You were destined to lead the Jüzes! Because of your cunning diplomacy, you were recognized as the Khan of all three Jüzes! Unlike other Khans, you did not succumb to external influence, such as the Russian Empire's! You centralized the Kazakh state, effectively forming the foundation of modern Kazakhstan. You would be remembered for centuries to come!",
+		"startIntroPart2": "Oh mighty overlord of the Kazakh steppe, unify the Jüzes once more! Make every minor Khan bow to your might! Surely with your leadership, the Kazakhs will be unstoppable! Can you make your empire flourish culturally and militarily? Can you build a civilization that will stand the test of time?",
+		"declaringWar": "We were left no choice but to put you in your place.",
+		"attacked": "Beware, stranger: The Kazakh Jüzes are unified and order is restored. You will regret it!",
+		"defeated": "What are you waiting for? Finish it.",
+		"introduction": "You walk on our steppe as if you were invited. I am not aware of such an arrangement. Explain your presence.",
+
+		"neutralHello": "Oh, hello.",
+		"hateHello": "What now?",
+
+		"tradeRequest": "Trade?",
+
+		"outerColor": [0,171,194],
+		"innerColor": [255,236,45],
+		"favoredReligion": "Islam",
+		"uniqueName": "Nomadic Pastoralists",
+		"uniques":
+		//	["Gain a free [Stable] [in all cities] <after discovering [Animal Husbandry]>",
+			["[+2 Culture] from every [Pasture]",
+			"[+1] Movement <for [Civilian] units>",
+			"[+1] Sight <for [Civilian] units>"],
+		"cities": ["Turkistan", "Almaty", "Astana", "Sauran", "Sighnak", "Otrar", "Saraychik", "Shymkent", "Karaganda", "Taraz",
+		"Aktobe", "Pavlodar", "Oskemen", "Semey", "Oral", "Kostanai", "Petropavl", "Kyzylorda", "Temirtau", "Aktau"]
 	}
 ]

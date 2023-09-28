@@ -11,9 +11,37 @@ BuildingIcons/Hockey Stadium
   orig: 256, 256
   offset: 0, 0
   index: -1
+BuildingIcons/Kiyiz Ui
+  rotate: false
+  xy: 668, 268
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+BuildingIcons/Tsikhe
+  rotate: false
+  xy: 276, 4
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
 NationIcons/Belarus
   rotate: false
   xy: 4, 4
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+NationIcons/Georgia
+  rotate: false
+  xy: 532, 268
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+NationIcons/Kazakhstan
+  rotate: false
+  xy: 140, 4
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
