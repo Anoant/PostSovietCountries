@@ -92,7 +92,36 @@
 			["[+2 Culture] from every [Pasture]",
 			"[+1] Movement <for [Civilian] units>",
 			"[+1] Sight <for [Civilian] units>"],
-		"cities": ["Turkistan", "Almaty", "Astana", "Sauran", "Sighnak", "Otrar", "Saraychik", "Shymkent", "Karaganda", "Taraz",
+		"cities": ["Turkistan", "Alma-Ata", "Astana", "Sauran", "Sighnak", "Otrar", "Saraychik", "Shymkent", "Karaganda", "Taraz",
 		"Aktobe", "Pavlodar", "Oskemen", "Semey", "Oral", "Kostanai", "Petropavl", "Kyzylorda", "Temirtau", "Aktau"]
+	},
+	{	"name": "Ukraine",
+		"leaderName": "Mykhailo Hrushevsky",
+		"adjective": ["ukrainian"],
+		"startBias": ["Grassland"],
+		"preferredVictoryType": "Cultural",
+
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+		"declaringWar": "",
+		"attacked": "",
+		"defeated": "",
+		"introduction": "",
+
+		"neutralHello": "",
+		"hateHello": "",
+
+		"tradeRequest": "",
+
+		"outerColor": [0,87,184],
+		"innerColor": [255,215,0],
+		"favoredReligion": "Christianity",
+		"uniqueName": "Chronicles of Ukraine-Rus",
+		"uniques":
+			["[+5]% Great Person generation [in all cities with a world wonder] <before the [Modern era]>",
+			"[+10]% Great Person generation [in all cities with a world wonder] <starting from the [Modern era]>",
+			"Gain [50] [Production] [in all cities] <upon gaining a [Great Person] unit>"],
+		"cities": ["Kyiv", "Kharkiv", "Odesa", "Lviv", "Vinnytsia", "Katerinoslav", "Kherson", "Chernihiv", "Sumy", "Brest-Litovsk",
+		"Lutsk", "Mariupol", "Berdiansk", "Simferopol", "Uman", "Kamiamets-Podilski", "Yelysavethrad", "Konotop", "Mykolaiv", "Oleksandrivsk"]
 	}
 ]

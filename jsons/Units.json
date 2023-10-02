@@ -45,9 +45,25 @@
 		"upgradesTo": "Knight",
 		"obsoleteTech": "Chivalry",
 		"uniques":
-		["Can move after attacking","No defensive terrain bonus","[-33]% Strength <vs cities> <when attacking>",
-		"[+10] HP when healing"],
+			["Can move after attacking","No defensive terrain bonus","[-33]% Strength <vs cities> <when attacking>",
+			"[+10] HP when healing"],
 		"hurryCostModifier": 20,
 		"attackSound": "horse"
+	},
+	{
+		"name": "Sich Rifleman",
+		"unitType": "Gunpowder",
+		"uniqueTo": "Ukraine",
+		"replaces": "Great War Infantry",
+		"movement": 2,
+		"strength": 50,
+		"cost": 320,
+		"requiredTech": "Replaceable Parts",
+		"upgradesTo": "Infantry",
+		"obsoleteTech": "Plastics",
+		"uniques":
+			["[+20]% Production when constructing [Sich Rifleman] units [in all cities with a world wonder]",
+			"New [Sich Rifleman] units start with [15] Experience [in all cities with a world wonder]"],
+		"attackSound": "shot"
 	}
 ]
