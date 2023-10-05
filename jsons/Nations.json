@@ -31,7 +31,7 @@
 		"uniqueName": "Potatoes Fields",
 		"uniques":
 			["[+1 Food, +1 Production] from all [Food] buildings",
-			"[+10]% [Food] [in all cities]"],
+			"[+15]% [Food] [in all cities]"],
 		"cities": ["Minsk","Gomel","Mogilev","Vitebsk","Grodno","Brest","Bobruysk","Baranovichi","Borisov", "Pinsk",
 			"Orsha","Mozyr","Soligorsk","Novopolotsk","Lida","Molodechno","Polotsk","Zhlobin","Svetlogorsk","Rechitsa"]
 	},
@@ -58,7 +58,7 @@
 		"favoredReligion": "Christianity",
 		"uniqueName": "Strength in Unity",
 		"uniques":
-			["[+25]% Golden Age length",
+			["[+20]% Golden Age length",
 			"[+33]% [Culture] [in all non-occupied cities] <during a Golden Age>",
 			"[+33]% [Faith] [in all non-occupied cities] <during a Golden Age>",
 			"[+200]% Production when constructing [Walls] buildings [in all cities]"],
@@ -69,7 +69,7 @@
 		"leaderName": "Ablai Khan",
 		"adjective": ["kazakh"],
 		"startBias": ["Plains"],
-		"preferredVictoryType": "Diplomatic",
+		"preferredVictoryType": "Domination",
 
 		"startIntroPart1": "Ablai Khan, you are a true leader! You have fought against Kazakh enemies for decades and proved to be an excellent commander and strategist. Your military prowess earned you the title of 'Batyr'! Most supreme Khan, your ancestor includes the mighty founder of the Kazakh Khanate, Janybek Khan. You were destined to lead the Jüzes! Because of your cunning diplomacy, you were recognized as the Khan of all three Jüzes! Unlike other Khans, you did not succumb to external influence, such as the Russian Empire's! You centralized the Kazakh state, effectively forming the foundation of modern Kazakhstan. You would be remembered for centuries to come!",
 		"startIntroPart2": "Oh mighty overlord of the Kazakh steppe, unify the Jüzes once more! Make every minor Khan bow to your might! Surely with your leadership, the Kazakhs will be unstoppable! Can you make your empire flourish culturally and militarily? Can you build a civilization that will stand the test of time?",
