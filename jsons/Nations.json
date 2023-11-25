@@ -95,7 +95,7 @@
 		"cities": ["Turkistan", "Alma-Ata", "Astana", "Sauran", "Sighnak", "Otrar", "Saraychik", "Shymkent", "Karaganda", "Taraz",
 		"Aktobe", "Pavlodar", "Oskemen", "Semey", "Oral", "Kostanai", "Petropavl", "Kyzylorda", "Temirtau", "Aktau"]
 	},
-	{	"name": "Ukraine",
+	{	"name": "Ukraine1",
 		"leaderName": "Mykhailo Hrushevsky",
 		"adjective": ["ukrainian"],
 		"startBias": ["Grassland"],
@@ -121,6 +121,34 @@
 			["[+5]% Great Person generation [in all cities with a world wonder] <before the [Modern era]>",
 			"[+10]% Great Person generation [in all cities with a world wonder] <starting from the [Modern era]>",
 			"Gain [50] [Production] [in all cities] <upon gaining a [Great Person] unit>"],
+		"cities": ["Kyiv", "Kharkiv", "Odesa", "Lviv", "Vinnytsia", "Katerinoslav", "Kherson", "Chernihiv", "Sumy", "Brest-Litovsk",
+		"Lutsk", "Mariupol", "Berdiansk", "Simferopol", "Uman", "Kamiamets-Podilski", "Yelysavethrad", "Konotop", "Mykolaiv", "Oleksandrivsk"]
+	},
+	{	"name": "Ukraine",
+		"leaderName": "Pavlo Skoropaskiy",
+		"adjective": ["ukrainian"],
+		"startBias": ["Grassland"],
+		"preferredVictoryType": "Diplomatic",
+
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+		"declaringWar": "",
+		"attacked": "",
+		"defeated": "",
+		"introduction": "",
+
+		"neutralHello": "",
+		"hateHello": "",
+
+		"tradeRequest": "",
+
+		"outerColor": [0,87,184],
+		"innerColor": [255,215,0],
+		"favoredReligion": "Christianity",
+		"uniqueName": "Hramota",
+		"uniques":
+			["WLTKD <upon constructing [Culture]>",
+			"[-10]% Culture cost of natural border growth [in all cities] <upon declaring a defensive pact>"],
 		"cities": ["Kyiv", "Kharkiv", "Odesa", "Lviv", "Vinnytsia", "Katerinoslav", "Kherson", "Chernihiv", "Sumy", "Brest-Litovsk",
 		"Lutsk", "Mariupol", "Berdiansk", "Simferopol", "Uman", "Kamiamets-Podilski", "Yelysavethrad", "Konotop", "Mykolaiv", "Oleksandrivsk"]
 	}
